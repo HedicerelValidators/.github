@@ -1,8 +1,8 @@
 <body>
     <main>
         <header style="align: center;">
-            <h1>🏰🌙 Welcome to the HedicerelValidators' Crypt! 🧛‍♂️🦇</h1>
-            <p>🌙 Where blockchain meets the legend of the night.</p>
+            <h1 style="align: center;">🏰🌙 Welcome to the HedicerelValidators' Crypt! 🧛‍♂️🦇</h1>
+            <p style="align: center;">🌙 Where blockchain meets the legend of the night.</p>
         </header>
         <article>
             <section>
