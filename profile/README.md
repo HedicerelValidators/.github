@@ -10,10 +10,6 @@
                 <p>We are <strong>HedicerelValidators</strong>, a team of professional validators who draw inspiration from the enigmatic aura of Dracula himself. Our expertise in testnet projects is as timeless as the tales of the Transylvanian count. 🧛‍♂️💻</p>
             </section>
             <section>
-                <h2>🌑 Our Domain</h2>
-                <p>As the moon rises, we come alive, ensuring the seamless operation of testnets with precision and care. Our validation skills are a testament to our dedication to the blockchain world, guarding it against the unseen dangers that lurk in the shadows. 🦇🔍</p>
-            </section>
-            <section>
                 <h2>🩸 Our Expertise</h2>
                 <ul>
                     <li><strong>Bloodline of Validators</strong>: We possess an ancient lineage of knowledge, allowing us to validate with unmatched wisdom and insight.</li>
@@ -22,8 +18,7 @@
                 </ul>
             </section>
             <section>
-                <h2>🔮 Our Vision</h2>
-                <p>Our vision is to bring the mystique and resilience of Dracula to the blockchain. We believe in a future where testnets are as robust and enduring as vampire lore. 🌕🌌</p>
+                <h2>🔮 Our actual projects</h2>
                 <div style="display: flex; flex-direction: row;">
                     <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_200x200.jpg">
                     <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">
