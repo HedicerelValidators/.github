@@ -28,6 +28,17 @@
             <section>
                 <h2>🤝 Join Us</h2>
                 <p>If you dare to walk this path with us, reach out. We are always looking for fellow nightwalkers who share our passion for blockchain validation. 🧛‍♂️💬</p>
+                <ul>
+                    <li>
+                        <strong>🧛‍♂️💬Twitter:</strong><a href="https://x.com/Hedicerel">@Hedicerel</a>
+                    </li>
+                    <li>
+                        <strong>🔮💬Founder`s Discord:</strong><a href="https://discord.com/users/847042463402426399">@hedicerel</a>
+                    </li>
+                    <li>
+                        <strong>🩸✉️Email:</strong><a href="mailto:nasirumajahidu@gmail.com">nasirumajahidu@gmail.com</a>
+                    </li>
+                </ul>
             </section>
         </article>
         <footer>
