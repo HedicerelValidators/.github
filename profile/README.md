@@ -24,7 +24,10 @@
             <section>
                 <h2>🔮 Our Vision</h2>
                 <p>Our vision is to bring the mystique and resilience of Dracula to the blockchain. We believe in a future where testnets are as robust and enduring as vampire lore. 🌕🌌</p>
-                <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_200x200.jpg">
+                <div style="display: flex; flex-direction: row;">
+                    <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_200x200.jpg">
+                    <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">
+                </div>
             </section>
             <section>
                 <h2>🤝 Join Us</h2>
